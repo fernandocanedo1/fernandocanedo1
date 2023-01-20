@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocanedo1&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandocanedo1&show_icons=true&theme=tokyonight)
 <!--
 **fernandocanedo1/fernandocanedo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
