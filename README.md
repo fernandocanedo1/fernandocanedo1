@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Fernando, i'm a front-end developer
+### Hi there, my name is Fernando, i'm a front-end developer 👋
 
 - 🔭 I am currently working on a UFCAT portal developed in NuxtJS
 - 🌱 I am currently learning to react
