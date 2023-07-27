@@ -3,7 +3,7 @@
 - 🔭 I am currently working on a UFCAT portal developed in NuxtJS: https://portal.ufcat.edu.br/
 - 🌱 I am currently learning to react
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandocanedo1&show_icons=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandocanedo1&show_icons=true)
 <!--
 **fernandocanedo1/fernandocanedo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
