@@ -1,6 +1,6 @@
-### Hi there, my name is Fernando, i'm a front-end developer 👋
+### Hi there, my name is Fernando, i'm a Front-End Developer PL 👋
 
-- 🔭 I am currently working on a EcoDoctor
+- 🔭 I am currently working on a Mindbe
 - 🌱 I am currently learning to Vitest
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandocanedo1&show_icons=true)
